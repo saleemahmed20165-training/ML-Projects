@@ -2,6 +2,13 @@
 ** Macine Learing Car Price Projection
 When you train a LinearRegression model in scikit‑learn, it gives you insight into how your input features influence the target variable (in your case, car Price).
 
+** Titanic - Random Forrest Project
+
+** Salary Prediction - Linear Regression Project
+
+** Customer Segmentation - KMeans Proect
+
+
 1. The Relationship Between Features and the Target. Linear Regression estimates a line (or hyperplane) that best fits your data.
 It tells you:
 - How much the price changes when a feature changes. (e.g., every extra year reduces price by X, every extra km reduces price by Y)
